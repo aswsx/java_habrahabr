@@ -1,0 +1,33 @@
+
+†
+java:S1319""pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Éÿ×¨
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óîƒ«ıÿÿÿÿ
+E
+java:S1444"*Make this "public static conn" field final(Û«êßúÿÿÿÿ
+E
+java:S1444	"*Make this "public static stat" field final(Áşªûøÿÿÿÿ
+C
+java:S1444
+"(Make this "public static rs" field final(†‡Û ıÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§æØ
+k
+java:S1104"PMake conn a static final constant or non-public and provide accessors if needed.(Û«êßúÿÿÿÿ
+k
+java:S1104	"PMake stat a static final constant or non-public and provide accessors if needed.(Áşªûøÿÿÿÿ
+i
+java:S1104
+"NMake rs a static final constant or non-public and provide accessors if needed.(†‡Û ıÿÿÿÿ
+z
+java:S1845"_Rename method "Conn" to prevent any misunderstanding/clash with field "conn" defined on line 8.(âŠ‹ ùÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(˜î½Ş
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âŠ‹ ùÿÿÿÿ
+
+java:S1130"uRemove the declaration of thrown exception 'javax.naming.NamingException', as it cannot be thrown from method's body.(âŠ‹ ùÿÿÿÿ
+D
+java:S2115")Add password protection to this database.(üÍ¦øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+c	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø”ºŒ
+
+java:S11305"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(ø”ºŒ

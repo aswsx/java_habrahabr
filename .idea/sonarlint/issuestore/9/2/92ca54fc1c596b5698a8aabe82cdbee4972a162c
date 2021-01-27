@@ -1,0 +1,12 @@
+
+0
+java:S1220""Move this file to a named package.
+P
+java:S1161":Add the "@Override" annotation above this method signature(ÅµÄè
+|
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ÜÕˆêøÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ìÍ¦‡
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(Ôù¹šþÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡
